@@ -1,0 +1,1 @@
+data/VCF/GBS/gbs.vcf filter=lfs diff=lfs merge=lfs -text
