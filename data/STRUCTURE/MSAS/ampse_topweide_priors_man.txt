@@ -1,0 +1,57 @@
+sample	focus_group	Cluster_1	Cluster_2	Cluster_3	Cluster_4	Cluster_5	Cluster_6
+P-Alg-1	pgh	0.000	1	0	0	0	0
+P-Alg-2	pgh	0.000	1	0	0	0	0
+P-Alg-3	pgh	0.000	1	0	0	0	0
+P-Ara-1	pgh	0	1	0	0	0	0
+P-Ara-2	pgh	0	1	0	0	0	0
+P-Ara-3	pgh	0	1	0	0	0	0
+P-Arc-1	pgh	0.000	1	0	0	0	0
+P-Arc-2	pgh	0.000	1	0	0	0	0
+P-Arc-3	pgh	0.000	1	0	0	0	0
+P-Ari-1	pgh	0.000	1	0	0	0	0
+P-Ari-2	pgh	0.000	1	0	0	0	0
+P-Ari-3	pgh	0.000	1	0	0	0	0
+P-Art-1	pgh	0.000	1	0	0	0	0
+P-Art-2	pgh	0.000	1	0	0	0	0
+P-Art-3	pgh	0.000	1	0	0	0	0
+P-Rep-1	pgh	0.000	1	0	0	0	0
+P-Rep-3	pgh	0.000	1	0	0	0	0
+F-EB-1	m1ghf	0.754	0.246
+F-EB-2	m1ghf	0.959	0.041
+F-EB-3	m1ghf	0.982	0.018
+F-LT-2	m1ghf	0.949	0.051
+F-LT-3	m1ghf	0.247	0.753
+M-1-50-1	m1ghf	0.949	0.051
+M-1-50-2	m1ghf	0.974	0.026
+M-1-50-3	m1ghf	0.975	0.025
+M-1-75-1	m1ghf	0.989	0.011
+M-1-75-2	m1ghf	0.990	0.010
+M-1-75-3	m1ghf	0.988	0.012
+P-Ari-1	m1ghf	0.977	0.023
+P-Ari-2	m1ghf	0.997	0.003
+P-Ari-3	m1ghf	0.887	0.113
+P-Rep-1	m1ghf	0.121	0.879
+P-Rep-3	m1ghf	0.999	0.001
+M-2-50-1	m2gh	0.488	0.512
+M-2-50-2	m2gh	0.496	0.504
+M-2-50-3	m2gh	0.486	0.514
+M-2-75-2	m2gh	0.619	0.381
+M-2-75-3	m2gh	0.640	0.360
+P-Ari-1	m2gh	0.982	0.018
+P-Ari-2	m2gh	0.978	0.022
+P-Ari-3	m2gh	0.969	0.031
+P-Art-1	m2gh	0.01	0.990
+P-Art-2	m2gh	0.064	0.936
+P-Art-3	m2gh	0.01	0.990
+M-3-50-1	m3gh	0.422	0.578
+M-3-50-2	m3gh	0.470	0.530
+M-3-50-3	m3gh	0.490	0.510
+M-3-75-1	m3gh	0.568	0.432
+M-3-75-2	m3gh	0.599	0.401
+M-3-75-3	m3gh	0.541	0.459
+P-Alg-1	m3gh	0.06	0.940
+P-Alg-2	m3gh	0.033	0.967
+P-Alg-3	m3gh	0.059	0.941
+P-Ari-1	m3gh	0.95	0.05
+P-Ari-2	m3gh	0.962	0.038
+P-Ari-3	m3gh	0.948	0.052
