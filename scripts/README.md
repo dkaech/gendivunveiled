@@ -9,34 +9,7 @@
 
 **06\_taxsort\_pure\_and\_mixed\_Fst.R** 	-> poolfstat and permanova on fivespp data \[Table 4 \& Table S3: SAMS samples]
 
-
-
-
 **\[!]** 021\_GBS\_poolfstat.R 			-> summary of topweide GBS poolfstat
-
-
-
-
-
-**\[02\_poolfstat\_permanova.R] 021\_poolfstat\_permanova.R**		-> fivespp poolfstat and permanova \[Table S3] \*READY\*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **\[!]** 04\_taxonomic\_assignment\_rate.R 		-> estimating taxonomic assignment rate
 
