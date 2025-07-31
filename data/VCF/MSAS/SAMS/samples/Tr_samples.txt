@@ -1,0 +1,15 @@
+../TAXSORT_BAM/bam/MKDUPS/Mx-A100-1.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-A100-2.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-A100-3.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-AB50-1.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-AB50-2.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-AB50-3.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-B100-1.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-B100-2.mkdups.bam
+../TAXSORT_BAM/bam/MKDUPS/Mx-B100-3.mkdups.bam
+../MKDUPS/Tr-A-1.sorted.mkdups.bam
+../MKDUPS/Tr-A-2.sorted.mkdups.bam
+../MKDUPS/Tr-A-3.sorted.mkdups.bam
+../MKDUPS/Tr-B-1.sorted.mkdups.bam
+../MKDUPS/Tr-B-2.sorted.mkdups.bam
+../MKDUPS/Tr-B-3.sorted.mkdups.bam
