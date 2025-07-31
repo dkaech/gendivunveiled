@@ -64,10 +64,10 @@ Furthermore, we prepared an extended *L. perenne* sample set consisting of 42 sa
 - `BAM_headers`: Headers of the BAM files of the multispecies (`MSAS/MS/`, `MSAS/SA/`, `MSAS/SAMS/`) and the *L. perenne* (`GBS/`, `MSAS/extended_loper/`) sample set.
 
 
-## 📈 Results overview
+## 📈 Results Overview
 Figures and tables/dataframes resulting from the scripts separated by sample set type.
 
-## 📜 Scripts overview
+## 📜 Scripts Overview
 
 Scripts with the prefix `0` were used for the multispecies samples set and for computing fixation index values (*F*<sub>ST</sub>) PERMANOVA of all sample sets. Scripts with the prefix `1` were used for the extended *L. perenne* sample set. Scripts with the same prefix have to be run sequentially (i.e., in order of increasing second number in file name).
 
