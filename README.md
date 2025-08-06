@@ -63,6 +63,7 @@ Furthermore, we prepared an extended *L. perenne* sample set consisting of 42 sa
 - `STRUCTURE`: Files for STRUCTURE analysis of GBS and MSAS data based on extended *L. perenne* sample set. Files with the suffix `f` contain cluster memberships of pure and `gbs_topweide_priors_man.txt` of the mixed samples.
 - `VCF`: VCF files of the multispecies (`MSAS/MS/`, `MSAS/SA/`, `MSAS/SAMS/`) and the *L. perenne* (`GBS/`, `MSAS/extended_loper/`) sample set.
 - `BAM_headers`: Headers of the BAM files of the multispecies (`MSAS/MS/`, `MSAS/SA/`, `MSAS/SAMS/`) and the *L. perenne* (`GBS/`, `MSAS/extended_loper/`) sample set.
+- `MSAS reference sequences`: Reference sequences used for multispecies sample set.
 
 
 ## 📈 Results Overview
