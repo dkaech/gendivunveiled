@@ -26,25 +26,26 @@ Furthermore, we prepared an extended *L. perenne* sample set consisting of 42 sa
 │   │   │   ├── bootstrapping/
 │   │   │   └── focus_groups/
 │   ├── BAM_headers/
-│   ├── GBS/
-│   ├── MSAS/
-│   ├── extended_loper/
+│   |   ├── GBS/
+│   |   └── MSAS/
 │   ├── MSAS reference sequences/
 │   ├── STRUCTURE/
 │   │   ├── GBS/
 │   │   └── MSAS/
 │   ├── VCF/
 │   │   ├── GBS/
-│   │   ├── MSAS/
-│   │   ├── MS/
-│   │   ├── SA/
-│   │   └── SAMS/
+│   │   └── MSAS/
 ├── results/
 │   ├── figures/
-│   │   └── extended_loper/
-│   ├── tables/
-│   │   └── extended_loper/
+│   └── tables/
 ├── scripts/
+│   ├── 01_poolfstat.R
+│   ├── 02_poolfstat_permanova.R
+│   ├── 03_taxsort_poolfstat.R
+│   ├── 04_fst_pairwise_poolfstats.R
+│   ├── 05_taxsort_poolfstat_DAPC.R
+│   ├── 06_taxsort_pure_and_mixed_Fst.R
+│   ├── 07_taxonomic_assignment_rate.R
 │   ├── 11_init.R
 │   ├── 12_GBS_loadData_FST_AF.R
 │   ├── 13_GBS_DAPC.R
@@ -71,12 +72,19 @@ Figures and tables/dataframes resulting from the scripts separated by sample set
 
 Scripts with the prefix `0` were used for the multispecies samples set and for computing fixation index values (*F*<sub>ST</sub>) PERMANOVA of all sample sets. Scripts with the prefix `1` were used for the extended *L. perenne* sample set. Scripts with the same prefix have to be run sequentially (i.e., in order of increasing second number in file name).
 
+- `01_poolfstat.R`: Summaryse poolfstat results for multispecies samples.
+- `02_poolfstat_permanova.R`: Analyse multispecies samples using poolfstat and PERMANOVA.
+- `03_taxsort_poolfstat.R`: Analyse taxonomically sorted reads.
+- `04_fst_pairwise_poolfstats.R`: Analyse correlation of poolfstat results between MSAS and GBS (based on extended *L. perenne* sample set).
+- `05_taxsort_poolfstat_DAPC.R`: Analyse allele frequencies using discriminant analysis of principal components (DAPC; based on multispecies data set).
+- `06_taxsort_pure_and_mixed_Fst.R`: Analyse SAMS samples of multispecies sample set using poolfstat and PERMANOVA).
+- `07_taxonomic_assignment_rate.R`: Estimate taxonomic assignment rate.
 - `11_init.R`: Initialise by defining paths, loading packages and functions (for analysis of extended *L. perenne* sample set).
 - `12_GBS_loadData_FST_AF.R`: Load VCF file and compute *F*<sub>ST</sub> and allele frequencies (for analysis of GBS data based on extended *L. perenne* sample set).
 - `13_GBS_DAPC.R`: Analyse allele frequencies using a discriminant analysis of principal components (DAPC; for analysis of GBS data based on extended *L. perenne* sample set).
 - `14_GBS_ADMIXTURE_STRUCTURE.R`: Analyse population structure using ADMIXTURE and STRUCTURE (for analysis of GBS data based on extended *L. perenne* sample set).
 - `15_MSAS_loadData_FST_AF.R`: Load VCF file and compute *F*<sub>ST</sub> and allele frequencies (for analysis of MSAS data based on extended *L. perenne* sample set).
-- `16_MSAS_DAPC.R`: Analyse allele frequencies using a discriminant analysis of principal components (DAPC; for analysis of MSAS data based on extended *L. perenne* sample set).
+- `16_MSAS_DAPC.R`: Analyse allele frequencies using DAPC (for analysis of MSAS data based on extended *L. perenne* sample set).
 - `17_MSAS_ADMIXTURE_STRUCTURE.R`: Analyse population structure using ADMIXTURE and STRUCTURE (for analysis of MSAS data based on extended *L. perenne* sample set).
 - `18_GBSandMSAS.R`: Compare GBS and MSAS data based on extended *L. perenne* sample set.
 
