@@ -5,6 +5,7 @@ This repository contains data and code used in the following paper:
 Damian Käch, Miguel Loera-Sánchez, Bruno Studer,  Roland Kölliker
 
 Preprint 2025, doi: https://doi.org/10.1101/2025.07.23.666374
+Peer-reviewed article 2026, doi: https://doi.org/10.1111/1755-0998.70108
 
 
 ## 🧪 Overview and Materials and Methods
